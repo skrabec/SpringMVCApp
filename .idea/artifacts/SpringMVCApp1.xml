@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVCApp1">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVCApp1</output-path>
+    <root id="root" />
+  </artifact>
+</component>
